@@ -1,1 +1,1 @@
-var m3u8Link="https://pubads.g.doubleclick.net/ssai/event/xYKVDAMWTQykwzEAWr3luQ/master.m3u8";jwplayer("jwplayerDiv").setup({playlist:[{sources:[{file:m3u8Link}]}],position:"bottom",autostart:true,stretching:"",width:"100%"}).onError(function(e){console.error("JWPlayer Error:",e);});
+var m3u8Link="https://catowrap.live/mrgamingbtsport1.m3u8";jwplayer("jwplayerDiv").setup({playlist:[{sources:[{file:m3u8Link}]}],position:"bottom",autostart:true,stretching:"",width:"100%"}).onError(function(e){console.error("JWPlayer Error:",e);});
