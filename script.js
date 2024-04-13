@@ -1,1 +1,1 @@
-var m3u8Link="https://catowrap.live/mrgamingbtsport1.m3u8";jwplayer("jwplayerDiv").setup({playlist:[{sources:[{file:m3u8Link}]}],position:"bottom",autostart:true,stretching:"",width:"100%"}).onError(function(e){console.error("JWPlayer Error:",e);});
+var m3u8Link="https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8";jwplayer("jwplayerDiv").setup({playlist:[{sources:[{file:m3u8Link}]}],position:"bottom",autostart:true,stretching:"",width:"100%"}).onError(function(e){console.error("JWPlayer Error:",e);});
